@@ -107,7 +107,7 @@ opacity: 0px;
 }
 
 
-@media screen and (max-width: 375px){
+@media screen and (max-width: 430px){
 
     .people{ 
         padding: 30px 30px ;
@@ -128,7 +128,7 @@ opacity: 0px;
 
     .people-review{
        width: 100%;
-       padding: 0px;
+       padding: 15px;
     }
 
     .elipse-togle{

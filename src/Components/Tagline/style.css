@@ -1,7 +1,7 @@
 
 .tagline{
     width: 1,440px;
-height: 588px;
+    height: 588px;
 }
 
 
@@ -14,3 +14,28 @@ opacity: 0px;
 background-size: cover;
 }
 
+#cta2{
+    display: none;
+}
+
+
+@media screen and (max-width: 430px){
+    .tagline {
+        width: 100%;
+    }
+
+    #cta2{
+        display: block;
+    }
+
+    #cta{
+        display: none;
+    }
+
+    .tagline img {
+        width: 100%;
+        opacity: 0px;
+
+    }
+
+}

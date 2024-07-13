@@ -92,7 +92,7 @@ color: #FFFFFF;
 }
 
 
-@media screen and (max-width: 375px){
+@media screen and (max-width: 430px){
     .long{           
         gap: 0px;
         opacity: 0px;

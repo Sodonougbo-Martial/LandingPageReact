@@ -21,7 +21,7 @@ function Hero() {
 
 
         <div className="image">
-            <img src="./assets/img.png" alt="" />
+            <img src="./assets/img2.png" alt="" />
         </div>
 
     </div>

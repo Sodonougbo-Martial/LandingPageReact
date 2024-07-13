@@ -63,9 +63,10 @@ background: #000000;
 
 }
 
-@media screen and (max-width: 375px){
+@media screen and (max-width: 430px){
 
     .feature{
+        
         display: flex;
         flex-direction: column;
         padding: 0px;
@@ -73,6 +74,7 @@ background: #000000;
     }
 
     .container1{
+        
         gap: 10px;
         opacity: 0px;
         display: flex;
@@ -87,12 +89,18 @@ background: #000000;
         display: flex;
         justify-content: center;
         align-items: center;
-        
       }
 
     .feature-one p{
         width: 100%;
     }
 
-
+    .elipse{
+        width: 60px;
+    height: 40px;
+    
+    border-radius: 100%;
+    
+    
+    }
 }

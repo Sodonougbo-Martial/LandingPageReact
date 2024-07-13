@@ -5,7 +5,8 @@ import './style.css';
 function Tagline() {
   return (
     <div className="tagline">
-        <img src="../assets/cta.png" alt="" />
+        <img src="../assets/cta.png" alt="" id='cta' />
+        <img src="../assets/cta2.png" alt="" id='cta2' />
     </div>
   );
 }
