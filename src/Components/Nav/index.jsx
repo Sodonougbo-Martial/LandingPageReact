@@ -3,7 +3,7 @@ import './style.css';
 
 function Nav() {
   return (
-    <header className="header">
+    <div className="header">
         <div className="Container1">
             <img src="./assets/Logo (Black).png" alt="" />
         </div>
@@ -16,8 +16,9 @@ function Nav() {
         </ul>
 
         <button className="btn">Action</button>
+        <button class="menu-toggle">☰</button>
 
-    </header>
+    </div>
   );
 }
 

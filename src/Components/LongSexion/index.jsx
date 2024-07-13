@@ -4,7 +4,7 @@ import './style.css';
 function Long() {
   return (
     <div className="long">
-            <div className="image">
+            <div className="image2">
                 <img src="./assets/img1.png" alt="" />
             </div>
 

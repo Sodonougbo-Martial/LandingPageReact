@@ -3,7 +3,7 @@ import './style.css';
 
 function Hero() {
   return (
-    <hero className="hero">
+    <div className="hero">
         <div className="text">
             <div className='medium-separated'>
                 <p className='Medium'>Medium length display headline</p>
@@ -24,7 +24,7 @@ function Hero() {
             <img src="./assets/img.png" alt="" />
         </div>
 
-    </hero>
+    </div>
   );
 }
 

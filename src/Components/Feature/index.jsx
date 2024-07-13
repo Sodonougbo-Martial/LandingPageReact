@@ -3,7 +3,7 @@ import './style.css';
 
 function Feature() {
   return (
-    <feature className="feature">
+    <div className="feature">
         <div className="container1">
             <div className="feature-one">
                 <div className="elipse">
@@ -36,7 +36,7 @@ function Feature() {
         </div>
         
 
-    </feature>
+    </div>
   );
 }
 

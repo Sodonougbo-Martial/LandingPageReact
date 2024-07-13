@@ -94,3 +94,26 @@ text-align: center;
 color: #F3F3F3;
 }
 
+.menu-toggle{
+    display: none;
+    width: Fill (375px)px;
+height: Hug (65px)px;
+
+gap: 230px;
+opacity: 0px;
+
+  }
+
+@media screen and (max-width: 375px) {
+    .menu,
+    .btn{
+        display: none;
+    }
+
+    .menu-toggle{
+        display: block;
+    }
+
+
+    /* Insérez vos propriétés CSS ici, avec vos sélecteurs*/
+    }
