@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+
+.feature {
+    width: Fill (1,440px)px;
+height: Hug (256px)px;
+gap: 0px;
+opacity: 0px;
+background:  #F3F3F3;
+display: flex;
+justify-content: space-between;
+
+padding-top: 30px;
+padding-bottom: 30px;
+padding-left: 150px;
+padding-right: 100px;
+
+}
+
+.container1{
+    width: 360px;
+height: 128px;
+gap: 16px;
+opacity: 0px;
+background: #F3F3F3;
+padding-top: 20px;
+padding-bottom: 20px;
+
+}
+
+.feature-one{
+    width: Fill (360px)px;
+height: Hug (40px)px;
+gap: 16px;
+opacity: 0px;
+display: flex;
+align-items: center;
+
+}
+
+.feature-one p{
+    width: 294px;
+height: 28px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 18px;
+font-weight: 700;
+line-height: 28px;
+text-align: left;
+color: #000000;
+margin: 0;
+
+}
+
+
+.elipse{
+    width: 40px;
+height: 40px;
+gap: 0px;
+opacity: 0px;
+border-radius: 100%;
+background: #000000;
+
+}

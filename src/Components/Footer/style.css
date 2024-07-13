@@ -1,0 +1,166 @@
+
+
+.footer{
+    width: 1,440px;
+height: 148px;
+
+gap: 10px;
+opacity: 0px;
+color: #FFFFFF;
+background: #000000;
+padding-top: 50px;
+padding-bottom: 50px;
+padding-left: 150px;
+padding-right: 150px;
+}
+
+
+.footer-container1{
+    width: 1,140px;
+height: 156px;
+gap: 0px;
+opacity: 0px;
+display: flex;
+justify-content: center;
+
+}
+
+
+
+
+.first-column{
+    width: 228px;
+height: 144px;
+gap: 16px;
+opacity: 0px;
+}
+
+.first-column p{
+    margin-top: 0px;
+    width: 228px;
+height: 24px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0.10000000149011612px;
+text-align: left;
+
+
+}
+
+
+.menu-column1,
+.menu-column2,
+.menu-column3 {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 0px 0px 0px 0px;
+    list-style: none;
+}
+
+.menu-items-footer{
+    font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+text-align: left;
+
+
+}
+
+
+.second-column {
+    width: 228px;
+height: 116px;
+gap: 16px;
+opacity: 0px;
+}
+
+.second-column p{
+    margin-top: 0px;
+    width: 228px;
+height: 24px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0.10000000149011612px;
+text-align: left;
+}
+
+
+.third-column {
+    width: 228px;
+height: 116px;
+gap: 16px;
+opacity: 0px;
+}
+
+.third-column p{
+    margin-top: 0px;
+    width: 228px;
+height: 24px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0.10000000149011612px;
+text-align: left;
+
+}
+
+
+.subscribe{
+    width: 228px;
+height: 156px;
+gap: 24px;
+opacity: 0px;
+}
+
+.subscribe p{
+    margin-top: 0px;
+}
+
+.p1{
+    font-family: Inter;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0.10000000149011612px;
+text-align: left;
+color: #FFFFFF;
+}
+
+.p2{
+    font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+text-align: left;
+color: #FFFFFF;
+padding-top: 10px;
+}
+
+Input{
+    width: Fill (228px)px;
+height: Hug (48px)px;
+padding: 12px 24px 12px 24px;
+gap: 0px;
+border-radius: 40px 40px 40px 40px;
+display: flex;
+justify-content: space-between;
+opacity: 0px;
+background: #FFFFFF26;
+border-color: #FFFFFF26;
+;
+}
+
+

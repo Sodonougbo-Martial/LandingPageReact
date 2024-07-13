@@ -1,0 +1,102 @@
+
+
+.people{
+    width: 1,440px;
+height: 308px;
+gap: 30px;
+opacity: 0px;
+display: flex;
+justify-content: space-between;
+padding-top: 40px;
+padding-bottom: 40px;
+padding-left: 150px;
+padding-right: 100px;
+}
+
+.people-review{
+    width: 360px;
+
+border-radius: 8px 0px 0px 0px;
+opacity: 0px;
+background: #F3F3F3;
+display: flex;
+justify-content: space-between;
+flex-direction: column;
+padding: 10px;
+
+}
+
+.text-A{
+    width: 312px;
+height: 84px;
+gap: 0px;
+opacity: 0px;
+display: flex;
+}
+
+.text-A p{
+    font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 28px;
+text-align: left;
+color: #000000;
+margin: 0;
+}
+
+.name{
+    width: 144px;
+height: 24px;
+gap: 0px;
+opacity: 0px;
+}
+
+.name p{
+    font-family: Inter;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0.10000000149011612px;
+text-align: left;
+color: #000000;
+}
+
+.description {
+    width: 144px;
+height: 20px;
+gap: 0px;
+opacity: 0px;
+display: flex;
+}
+
+.description p {
+    font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+text-align: left;
+color: #000000;
+margin: 0;
+}
+
+.profils-card{
+    display: flex;
+    flex-direction: column;
+}
+
+.profils-card img{
+    width: 64px;
+height: 64px;
+padding: 10px 0px 0px 0px;
+gap: 10px;
+border-radius: 32px 0px 0px 0px;
+opacity: 0px;
+
+
+}
+
+.description-reseau{
+    display : flex;
+    justify-content: space-between;
+    align-items: center;
+}

@@ -1,0 +1,96 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+
+.header{
+    width: Fill (1,024px)px;
+height: Hug (96px)px;
+padding: 24px 32px 24px 32px;
+gap: 0px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+opacity: 0px;
+
+}
+
+.container1{
+    width: Hug (101px)px;
+height: Hug (27px)px;
+gap: 0px;
+opacity: 0px;
+}
+
+
+.logo1{
+    width: 87px;
+height: 27px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 24.65px;
+font-weight: 900;
+line-height: 26.41px;
+letter-spacing: -0.44023728370666504px;
+text-align: left;
+color: #000000;
+
+}
+
+.logo2{
+    width: 14px;
+height: 9px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 8.22px;
+font-weight: 900;
+line-height: 8.8px;
+letter-spacing: -0.14674577116966248px;
+text-align: left;
+color: #000000;
+
+}
+
+.menu {
+    width: 408px;
+height: 20px;
+gap: 24px;
+opacity: 0px;
+display: flex;
+list-style: none;
+
+}
+
+.menu-items{
+    width: 44x;
+height: 20px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 19.36px;
+letter-spacing: 0.10000000149011612px;
+
+color: #000000;
+}
+
+.btn {
+    width: Hug (100px)px;
+height: Hug (48px)px;
+padding: 12px 24px 12px 24px;
+gap: 10px;
+border-radius: 32px 32px 32px 32px;
+opacity: 0px;
+background: #000000;
+
+font-family: Inter;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0.10000000149011612px;
+text-align: center;
+color: #F3F3F3;
+}
+
