@@ -36,8 +36,17 @@ function People() {
             </div>
         </div>
 
+        <div className="round-togle">
+            <div className="elipse-togle" id='elipse-togle1'>
+            </div>
+            <div className="elipse-togle" id='elipse-togle2'>
+            </div>
+            <div className="elipse-togle" id='elipse-togle3'>
+            </div>
+        </div>
 
-        <div className="people-review">
+
+        <div className="people-review" id='people-review2'>
             <div className="text-A">
                 <p>“A testimonial describing what the person thinks about this service, product or startup in general.”</p>
             </div>
@@ -66,7 +75,7 @@ function People() {
         </div>
 
 
-        <div className="people-review">
+        <div className="people-review" id='people-review3'>
             <div className="text-A">
                 <p>“A testimonial describing what the person thinks about this service, product or startup in general.”</p>
             </div>

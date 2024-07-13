@@ -125,24 +125,24 @@ opacity: 0px;
         display: flex;
         flex-direction: column;
         justify-content: center;
-        width: Fill (375px)px;
-        height: Hug (695px)px;
+        align-items: center;
+        width: 100%;
         gap: 24px;
         opacity: 0px;
+        padding: 0px;
     }
     
     .text{
-        width: 375px;
-        height: 350px;
-        padding: 0px 24px 21px 24px;
-        gap: 24px;
+        width: 100%;
+        height: auto;
+        gap: 0px;
         opacity: 0px;
         display: flex;
     }
 
     .Medium{
         width: 327px;
-        height: 97px;
+        
         gap: 0px;
         opacity: 0px;
 
@@ -166,6 +166,7 @@ opacity: 0px;
         font-weight: 400;
         line-height: 28px;
         text-align: center;
+        margin: 0px;
 
     }
 
@@ -193,17 +194,20 @@ opacity: 0px;
 
 
     .image{
-        width: 327px;
-        height: 309px;
-        padding: 10px 0px 0px 0px;
+        width: 350px;
+        padding: 10px ;
         gap: 10px;
         border-radius: 12px 0px 0px 0px;
         opacity: 0px;
 
     }
     .image img{
-        width: 100px;
-        height: 109px;
+        width: 100%;
+        
+        padding: 10px 0px 0px 0px;
+        gap: 10px;
+        border-radius: 12px 0px 0px 0px;
+        opacity: 0px;
 
     }
 

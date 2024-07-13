@@ -98,9 +98,8 @@ color: #F3F3F3;
     display: none;
     width: Fill (375px)px;
 height: Hug (65px)px;
-
-gap: 230px;
 opacity: 0px;
+padding: 5px 15px;
 
   }
 
@@ -110,8 +109,14 @@ opacity: 0px;
         display: none;
     }
 
+    
+
     .menu-toggle{
         display: block;
+    }
+
+    .header{
+        padding: 20px;
     }
 
 

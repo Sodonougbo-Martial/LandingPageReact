@@ -68,7 +68,7 @@ background: #000000;
     .feature{
         display: flex;
         flex-direction: column;
-        
+        padding: 0px;
         align-items: center;
     }
 
