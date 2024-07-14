@@ -29,7 +29,7 @@ function Footer() {
             </div>
 
             <div className="second-column">
-                <p>First column</p>
+                <p>Second</p>
                 <ul className="menu-column2">
                     <li className="menu-items-footer">Fifth page</li>
                     <li className="menu-items-footer">Sixth page</li>
@@ -38,7 +38,7 @@ function Footer() {
             </div>
 
             <div className="third-column">
-                <p>First column</p>
+                <p>Third</p>
                 <ul className="menu-column3">
                     <li className="menu-items-footer">Fifth page</li>
                     <li className="menu-items-footer">Sixth page</li>
