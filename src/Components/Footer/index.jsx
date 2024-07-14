@@ -11,10 +11,11 @@ import { Input } from 'semantic-ui-react';
 function Footer() {
   return (
     <div className="footer">
+        <div className="Container1">
+            <img src="./assets/logo.svg" alt="" className='logo-with'/>
+        </div>
+
         <div className="footer-container1">
-            <div className="Container1">
-                <img src="./assets/logo.svg" alt="" />
-            </div>
 
             <div className="first-column">
                 <p>First column</p>
@@ -45,13 +46,12 @@ function Footer() {
                 </ul>
             </div>
 
-            <div className="subscribe">
-                <p className='p1'>Subscribe</p>
-                <Input className='input' placeholder='Enter Email' />
-                <p className='p2'>Join our newsletter to stay up to date on features and releases</p>
-            </div>
-            
-            
+        </div>
+
+        <div className="subscribe">
+            <p className='p1'>Subscribe</p>
+            <Input className='input' placeholder='Enter Email' />
+            <p className='p2'>Join our newsletter to stay up to date on features and releases</p>
         </div>
 
     </div>
