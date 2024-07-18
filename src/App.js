@@ -19,9 +19,6 @@ function App() {
       <People />
       <Tagline />
       <Footer />
-
-      
-      
     </div>
   );
 }

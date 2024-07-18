@@ -2,115 +2,98 @@
 
 
 .hero{
-width: 100%;
-
-gap: 50px;
-opacity: 0px;
-display: flex;
-justify-content: center;
-padding-top: 30px;
-padding-bottom: 30px;
+    width: 100%;
+    gap: 50px;
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 
 .text{
-width: 490px;
-height: 288px;
-gap: 20px;
-opacity: 0px;
-display: flex;
-flex-direction: column;
-text-align: left;
-
-
+    width: 490px;
+    height: 288px;
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
 }
 
 .Medium{
-
     width: 490px;
-height: 120px;
-gap: 0px;
-opacity: 0px;
-font-family: Inter;
-font-size: 56px;
-font-weight: 900;
-line-height: 60px;
-letter-spacing: -1px;
-text-align: left;
-margin-bottom: 0px;
+    height: 120px;
+    gap: 0px;
+    font-family: Inter;
+    font-size: 56px;
+    font-weight: 900;
+    line-height: 60px;
+    letter-spacing: -1px;
+    text-align: left;
+    margin-bottom: 0px;
 }
 
 .Separated{
     width: 490px;
     height: 56px;
     gap: 0px;
-    opacity: 0px;
     font-family: Inter;
     font-size: 18px;
     font-weight: 400;
     line-height: 28px;
     text-align: left;
-color: #000000;
-margin-top: 20px;
-margin-bottom: 0;
+    color: #000000;
+    margin-top: 20px;
+    margin-bottom: 0;
 }
 
 
 .medium-separated{
     width: Fill (630px)px;
-height: Hug (200px)px;
-gap: 0px;
-opacity: 0px;
-
+    height: Hug (200px)px;
+    gap: 0px;
 }
 
 .action-people{
     width: Fill (490px)px;
-height: Hug (48px)px;
-gap: 20px;
-opacity: 0px;
-display: flex;
-align-items: center;
+    height: Hug (48px)px;
+    gap: 20px;
+    display: flex;
+    align-items: center;
 }
 
 button {
     width: Hug (100px)px;
-height: Hug (48px)px;
-padding: 12px 24px 12px 24px;
-gap: 10px;
-border-radius: 32px 32px 32px 32px;
-opacity: 0px;
-background: #000000;
-
-font-family: Inter;
-font-size: 16px;
-font-weight: 700;
-line-height: 24px;
-letter-spacing: 0.10000000149011612px;
-text-align: center;
-color: #F3F3F3;
+    height: Hug (48px)px;
+    padding: 12px 24px 12px 24px;
+    gap: 10px;
+    border-radius: 32px 32px 32px 32px;
+    background: #000000;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.10000000149011612px;
+    text-align: center;
+    color: #F3F3F3;
 }
 
 .action-people p {
     width: 236px;
     height: 40px;
     gap: 0px;
-    opacity: 0px;
     font-family: Inter;
     font-size: 14px;
     font-weight: 600;
     line-height: 20px;
     text-align: left;
-        
-color: #000000;
-
+    color: #000000;
 }
 
 .image{
-padding: 10px 0px 0px 0px;
-gap: 10px;
-border-radius: 12px 0px 0px 0px;
-opacity: 0px;
+    padding: 10px 0px 0px 0px;
+    gap: 10px;
+    border-radius: 12px 0px 0px 0px;
 }
 
 .image img{
@@ -127,7 +110,6 @@ opacity: 0px;
         align-items: center;
         width: 100%;
         gap: 24px;
-        opacity: 0px;
         padding: 0px;
     }
     
@@ -135,7 +117,6 @@ opacity: 0px;
         width: 100%;
         height: auto;
         gap: 20px;
-        opacity: 0px;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -143,10 +124,7 @@ opacity: 0px;
 
     .Medium{
         width: 327px;
-        
         gap: 0px;
-        opacity: 0px;
-
         text-align: center;
         font-family: Inter;
         font-size: 40px;
@@ -161,7 +139,6 @@ opacity: 0px;
         width: 327px;
         height: 84px;
         gap: 0px;
-        opacity: 0px;
         font-family: Inter;
         font-size: 18px;
         font-weight: 400;
@@ -179,13 +156,11 @@ opacity: 0px;
         width: 327px;
         height: 112px;
         gap: 16px;
-        opacity: 0px;
     }
     .action-people p{
         width: 327px;
         height: 56px;
         gap: 0px;
-        opacity: 0px;
         font-family: Inter;
         font-size: 14px;
         font-weight: 600;
@@ -200,17 +175,13 @@ opacity: 0px;
         padding: 10px ;
         gap: 10px;
         border-radius: 12px 0px 0px 0px;
-        opacity: 0px;
 
     }
     .image img{
         width: 100%;
-        
         padding: 10px 0px 0px 0px;
         gap: 10px;
         border-radius: 12px 0px 0px 0px;
-        opacity: 0px;
-
     }
 
     

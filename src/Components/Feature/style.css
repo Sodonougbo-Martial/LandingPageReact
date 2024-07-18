@@ -3,63 +3,57 @@
 
 .feature {
     width: Fill (1,440px)px;
-height: Hug (256px)px;
-gap: 0px;
-opacity: 0px;
-background:  #F3F3F3;
-display: flex;
-justify-content: space-between;
-
-padding-top: 30px;
-padding-bottom: 30px;
-padding-left: 150px;
-padding-right: 100px;
+    height: Hug (256px)px;
+    gap: 0px;
+    background:  #F3F3F3;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 150px;
+    padding-right: 100px;
 
 }
 
 .container1{
     width: 360px;
-height: 128px;
-gap: 16px;
-opacity: 0px;
-background: #F3F3F3;
-padding-top: 20px;
-padding-bottom: 20px;
+    height: 128px;
+    gap: 16px;
+    background: #F3F3F3;
+    padding-top: 20px;
+    padding-bottom: 20px;
 
 }
 
 .feature-one{
     width: Fill (360px)px;
-height: Hug (40px)px;
-gap: 16px;
-opacity: 0px;
-display: flex;
-align-items: center;
+    height: Hug (40px)px;
+    gap: 16px;
+    display: flex;
+    align-items: center;
 
 }
 
 .feature-one p{
     width: 294px;
-height: 28px;
-gap: 0px;
-opacity: 0px;
-font-family: Inter;
-font-size: 18px;
-font-weight: 700;
-line-height: 28px;
-text-align: left;
-color: #000000;
-margin: 0;
+    height: 28px;
+    gap: 0px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 28px;
+    text-align: left;
+    color: #000000;
+    margin: 0;
 }
 
 
 .elipse{
     width: 40px;
-height: 40px;
-gap: 0px;
-opacity: 0px;
-border-radius: 100%;
-background: #000000;
+    height: 40px;
+    gap: 0px;
+    border-radius: 100%;
+    background: #000000;
 
 }
 
@@ -76,7 +70,6 @@ background: #000000;
     .container1{
         
         gap: 10px;
-        opacity: 0px;
         display: flex;
         flex-direction: column;
         align-items: center;
